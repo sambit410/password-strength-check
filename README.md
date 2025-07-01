@@ -58,3 +58,6 @@ Included findings in a structured Markdown document for easy reference.
 
 Conclusion
 This task demonstrated the importance of password length, randomness, and supporting tools in securing accounts against brute force and dictionary attacks. The evaluations highlighted that passwords of 16+ characters with diverse characters offer robust security, while shorter or predictable passwords remain vulnerable.
+
+CREATED PASSWORD STRENGTH TOOL IN PYTHON
+Github link - https://github.com/sambit410/Password-strength
